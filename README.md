@@ -1,2 +1,5 @@
-# Machine-Learning-Project-on-Resume-Screening-with-Python
-Companies often receive thousands of resumes for each job posting and employ dedicated screening officers to screen qualified candidates. In this article, I will introduce you to a machine learning project on Resume Screening with Python programming language.
+# Machine-Learning-MLOps-GenerativeAI-NLP-CV-MLSystem-Design
+
+When to use Which Machine Learning Algorithm
+
+https://docs.google.com/spreadsheets/d/1QsPoUosmabD_JDQGZ0G8wO31Jiw1qDgj7S9lJ76hruU/edit?usp=sharing
